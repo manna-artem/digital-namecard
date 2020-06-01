@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
+N:Vijay;Kalamkar;;;
+FN: Vijay Kalamkar 
 ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+TITLE:Director
+EMAIL;type=INTERNET;type=WORK;type=pref:lotusscaffold@gmail.com
+TEL;type=WORK;type=VOICE:(+91)9765 555559
+item1.ADR;type=WORK;type=pref:;;Sr. no. 66/1, BRT road, Tathawade chowk, Tathawade, Pune;;;411033;Maharashtra
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.lotusscaffold.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
